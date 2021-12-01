@@ -20,8 +20,8 @@ export default function Home() {
 				<Header />
 			</div>
 			<main>
-				<Main />
 				<Contact />
+				<Main />
 				<Contact />
 				<Rarity />
 				<Gravetown />

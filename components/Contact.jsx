@@ -2,9 +2,9 @@ const Contact = () => {
 	return (
 		<div>
 			<div className="max-w-7xl space-y-6 px-6 sm:px-16 mx-auto py-8">
+				<h3 className="text-3xl font-bold">Hi Sir, i can't share you all links on fiverr because they can block me.</h3>
+				<h3 className="text-3xl font-bold">So, please contact me here so, we can disscuss more</h3>
 				<h3 className="text-3xl font-bold">Contact Me</h3>
-
-
 				<h3 className="font-normal text-3xl font-bold">Telegram - @The_a_s</h3>
 				<h5 className="text-3xl font-bold">Linkedin  -  https://www.linkedin.com/in/abhishek-thory/</h5>
 				<a href="https://www.linkedin.com/in/abhishek-thory/">
